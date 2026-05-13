@@ -1,1 +1,2 @@
-# Placeholder for AppLovin ads.txt, to be updated after account approval
+# Placeholder for AppLovin app-ads.txt
+# Will be updated with real Publisher ID after account approval
